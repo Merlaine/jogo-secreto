@@ -14,7 +14,7 @@
        exibirTextoNaTela('h1', 'Jogo do número secreto');
        exibirTextoNaTela('p', 'Escola um número entre 1 e 10');
      }  
-     //chamar funcao 
+     //chamar funcao exebir mensagem inicial.
       exebirMensagemInicial();
      
 
