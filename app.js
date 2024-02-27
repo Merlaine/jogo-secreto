@@ -32,6 +32,7 @@
         habilitarComponente('input', false);
         habilitarComponente('chutar', false);
         habilitarComponente('reiniciar', true);
+        
         // document.getElementById('chutar').setAttribute('disabled', true)
         // document.getElementById('reiniciar').removeAttribute('disabled');
 
