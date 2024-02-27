@@ -27,7 +27,7 @@
         let mensagemtentativas =`Voce descobriu o numero  secreto com ${tentativas} ${paravraTentativa}!`;
         exibirTextoNaTela('p', mensagemtentativas);
 
-        //habilitar e desabilitar botao 
+        //habilitar e desabilitar botao chamando a função habilitarComponente()
 
         habilitarComponente('input', false);
         habilitarComponente('chutar', false);
