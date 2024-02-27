@@ -15,6 +15,7 @@
        exibirTextoNaTela('p', 'Escola um número entre 1 e 10');
      }  
      //chamar funcao exebir mensagem inicial.
+     
       exebirMensagemInicial();
      
 
@@ -32,7 +33,7 @@
         habilitarComponente('input', false);
         habilitarComponente('chutar', false);
         habilitarComponente('reiniciar', true);
-        
+
         // document.getElementById('chutar').setAttribute('disabled', true)
         // document.getElementById('reiniciar').removeAttribute('disabled');
 
